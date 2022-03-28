@@ -1,11 +1,14 @@
 .App {
   text-align: center;
   height: 100vh;
-  padding-top: 18%;
+  display: flex;
 }
 .contenedor{
-  width: 500px; 
-  height: 250px;
+  width: 40%; 
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   margin: auto;
   border: 1px solid black;
   padding: 1rem;

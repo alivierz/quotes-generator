@@ -1,7 +1,7 @@
 .quotes{
-    height: 150px;
-    margin-bottom: 30px;
+    height: auto;
     background-color: white;
+    margin-bottom: 3.5rem;
 }
 .Bred{
     color: red;
